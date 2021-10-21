@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "NLW Heat Node",
+            "database": "${workspaceFolder:node_heat}/prisma/dev.db"
+        }
+    ]
+}
